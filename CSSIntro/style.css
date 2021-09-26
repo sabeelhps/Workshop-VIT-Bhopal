@@ -1,0 +1,22 @@
+
+/* Element selector */
+
+section{
+    border:20px solid lightgray;
+    padding:16px;
+    width: 70%;
+    margin:20px auto;
+}
+
+/* id selector */
+
+#heading{
+    color:blue;
+}
+
+/* class selector */
+
+.fav-movie{
+    color:red;
+    text-decoration: line-through;
+}
